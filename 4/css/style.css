@@ -1,0 +1,66 @@
+body{
+    margin-top: 0;
+    padding: 0;
+    background-image: url("../img/0d.jpg");
+    background-position: center bottom 10px; /* Позиционируем изображение по центру */
+}
+
+.gg{
+    font-family: 'ARIAL BLACK', serif;
+    font-size: 50px;
+    position: absolute;
+    left: 80px;
+    top: 30px;
+    color: #14b1ab;
+}
+
+.gg1{
+    font-family: 'ARIAL BLACK', serif;
+    font-size: 20px;
+    position: absolute;
+    left: 1300px;
+    top: 30px;
+    color: #14b1ab;
+}
+
+.gg2{
+    font-family: 'ARIAL BLACK', serif;
+    font-size: 100px;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    color: #14b1ab;
+}
+
+.gg3{
+    font-family: 'ARIAL BLACK', serif;
+    font-size: 20px;
+    position: absolute;
+    left: 565px;
+    top: 205px;
+    color: #14b1ab;
+}
+
+.kk{
+    background-color: #f3ecc2;
+    width: 150px;
+    height: 40px;
+    position:  absolute;
+
+    left: 1280px;
+    top: 25px;
+
+    border-radius: 10px;
+}
+
+.kk1{
+    background-color: #f3ecc2;
+    width: 140px;
+    height: 40px;
+    position:  absolute;
+
+    left: 1490px;
+    top: 25px;
+
+    border-radius: 10px;
+}
