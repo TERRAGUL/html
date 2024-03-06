@@ -1,0 +1,75 @@
+body{
+    margin-top: 0;
+    padding: 0;
+    background-image: url("../img/0d.jpg");
+    background-size: cover;
+}
+
+.gg{
+    font-family: 'ARIAL BLACK', serif;
+    font-size: 50px;
+    display: flex;
+    margin-left: 80px;
+    margin-top: 0px;
+    color: #14b1ab;
+}
+
+.gg1{
+    font-family: 'ARIAL BLACK', serif;
+    font-size: 20px;
+    color: #14b1ab;
+}
+
+.gg2{
+    font-family: 'ARIAL BLACK', serif;
+    font-size: 100px;
+    display: flex;
+    margin-top: -25px;
+    margin-left: 600px;
+    color: #14b1ab;
+}
+
+.gg3{
+    font-family: 'ARIAL BLACK', serif;
+    font-size: 20px;
+    display: flex;
+    margin-left: 650px;
+    margin-top: 225px;
+    color: #14b1ab;
+}
+
+.gg4{
+    font-family: 'ARIAL BLACK', serif;
+    font-size: 20px;
+    display: flex;
+    margin-left: 725px;
+    margin-top: -20px;
+    color: #14b1ab;
+}
+
+.kk{
+    background-color: #f3ecc2;
+    width: 150px;
+    height: 40px;
+
+    margin-left: 1280px;
+    margin-top: 25px;
+
+    border-radius: 10px;
+
+    text-align: center;
+    line-height: 40px;
+}
+
+.kk1{
+    background-color: #f3ecc2;
+    width: 140px;
+    height: 40px;
+    margin-left: 1550px;
+    margin-top: -40px;
+
+    border-radius: 10px;
+
+    text-align: center;
+    line-height: 40px;
+}
